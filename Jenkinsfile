@@ -4,5 +4,5 @@
 standardPipeline(
     appName: 'DemoApp',
     user: 'DevOps Learner',
-    agentLabel: 'slave-node' // Ensure your slave container has this label
+  //  agentLabel: 'slave-node' // Ensure your slave container has this label
 )
